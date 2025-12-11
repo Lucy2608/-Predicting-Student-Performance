@@ -1,5 +1,3 @@
-# Project Summary 
-
 # Predicting Student Performance
 
 # Project Overview
